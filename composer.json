@@ -2,9 +2,9 @@
     "name": "swissup/easycatalogimg",
     "description": "Create category listings with thumbnail images",
     "type": "metapackage",
-    "version": "1.5.9",
+    "version": "1.5.10",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-easycatalogimg": "^1.5.8"
+        "swissup/module-easycatalogimg": "^1.5.9"
     }
 }
